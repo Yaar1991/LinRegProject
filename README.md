@@ -1,6 +1,8 @@
 We compiled the database from data for 2019 from the MyHeritage website (https://herit.ag/3uxSAYI), and all the various analyzes were performed using R Studio.
 The project consists of two parts:
 Part A - According to scattering diagrams between different pairs of variables, hypotheses have been raised as to whether there is a causal or sample relationship between these pairs. 
+
+
 In addition, the variables were analyzed descriptively, it was examined whether there were any abnormal observations, and common one- and two-dimensional tables were presented.
 Part B - In this section, preliminary processing, regression model adjustment and testing of assumptions, model improvement, conclusions and recommendations were performed.
 • Pre-processing: initial definitions of the model variables were made - definition of additional variables (a variable that defines whether there was legislation in the field of domestic violence in the country as of 2018, and a variable that associates the country to the continent to which it belongs), 
